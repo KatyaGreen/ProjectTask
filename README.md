@@ -199,6 +199,8 @@
 
 ## 2.2. Блок-схема решения (Data Scientist)
 
+![alt text](diagrams/image1.png)
+
 ## 2.3. Этапы решения задачи (Data Scientist)
 
 | Этап                 | Вводные                 | Техника                       | Выход                         |
@@ -257,6 +259,8 @@
 # 4. Внедрение в production
 
 ## 4.1. Архитектура решения
+
+![alt text](diagrams/image2.png)
 
 ## 4.2. Инфраструктура и масштабируемость
 
@@ -350,10 +354,20 @@
 
 ## 5.1. BPMN: текущий процесс
 
+![alt text](diagrams/image3.png)
+
 ## 5.2. BPMN: после внедрения
+
+![alt text](diagrams/image4.png)
 
 ## 5.3. ER-диаграмма
 
+![alt text](diagrams/image5.png)
+
 ## 5.4. Компонентная UML-диаграмма
 
+![alt text](diagrams/image6.png)
+
 ## 5.5. Диаграмма последовательности
+
+![alt text](diagrams/image7.png)
